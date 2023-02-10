@@ -1,0 +1,7 @@
+.container {
+  background-color: bisque;
+  display: flex;
+  height: 20vh;
+  width: 80vh;
+}
+
